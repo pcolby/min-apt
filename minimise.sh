@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# SPDX-FileCopyrightText: 2024 Paul Colby <git@colby.id.au>
+# SPDX-License-Identifier: MIT
 
 set -o errexit -o noclobber -o nounset -o pipefail
 shopt -s inherit_errexit
